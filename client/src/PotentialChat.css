@@ -1,0 +1,96 @@
+.user-search-wrapper {
+    padding: 1rem;
+    background: linear-gradient(90deg, #ff416c, #ff4b2b);
+    border-radius: 1rem;
+    box-shadow: 0 0 12px rgba(255, 65, 108, 0.5);
+}
+
+.user-search-input {
+    width: 100%;
+    padding: 0.6rem 1rem;
+    border: none;
+    border-radius: 0.8rem;
+    font-family: 'Oswald', sans-serif;
+    font-size: 1rem;
+    outline: none;
+    background: rgba(255,255,255,0.1);
+    color: white;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+    margin-bottom: 1rem;
+
+    position: relative; 
+    z-index: 1;
+}
+
+.user-search-input::placeholder {
+    color: #ccc;
+}
+
+.all-users {
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+}
+
+.single-user {
+    padding: 0.6rem 1rem;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 0.8rem;
+    color: white;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: background 0.2s ease;
+}
+
+.single-user:hover {
+    background: rgba(255, 255, 255, 0.1);
+    box-shadow: 0 0 10px rgba(255, 64, 129, 0.5);
+}
+
+.user-online {
+    width: 10px;
+    height: 10px;
+    background-color: limegreen;
+    border-radius: 50%;
+}
+
+.single-user {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.6rem 1rem;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 0.8rem;
+    color: white;
+    cursor: pointer;
+    transition: background 0.2s ease;
+}
+
+.single-user:hover {
+    background: rgba(255, 255, 255, 0.1);
+    box-shadow: 0 0 10px rgba(255, 64, 129, 0.5);
+}
+
+.user-avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid #ff416c;
+}
+
+.user-name {
+    flex-grow: 1;
+    font-weight: bold;
+    font-family: 'Oswald', sans-serif;
+}
+
+.user-online {
+    width: 10px;
+    height: 10px;
+    background-color: limegreen;
+    border-radius: 50%;
+}
+

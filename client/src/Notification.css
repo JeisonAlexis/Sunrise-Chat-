@@ -1,0 +1,145 @@
+.notif-wrapper {
+  position: relative;
+  cursor: pointer;
+}
+
+.notif-icon {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #c084fc;
+  background: transparent;      
+  border: none;                 
+  padding: 0.5rem;
+  border-radius: 0.75rem;
+  box-shadow: none;             
+  transition: transform 0.2s;
+}
+
+.notif-icon:hover {
+
+  transform: scale(1.1);
+}
+
+
+.notif-badge {
+  position: absolute;
+  top: -6px;
+  right: -6px;
+  background-color: #9333ea;
+  color: white;
+  font-size: 0.7rem;
+  padding: 2px 6px;
+  border-radius: 50%;
+  font-weight: bold;
+  box-shadow: 0 0 6px #c084fc;
+}
+
+.notif-dropdown {
+  position: absolute;  
+  top: 60px;            
+  right: 20px;
+  z-index: 9999;        
+  background: #111;
+  padding: 1rem;
+  width: 280px;
+  border-radius: 1rem;
+  box-shadow: 0 0 10px rgba(255, 64, 129, 0.5);
+}
+
+
+.notif-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
+.notif-header h4 {
+  margin: 0;
+  font-size: 1rem;
+  color: #c084fc;
+}
+
+.notif-read-all {
+  font-size: 0.8rem;
+  background: #9333ea;
+  color: white;
+  border: none;
+  padding: 0.3rem 0.6rem;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  font-weight: 600;
+  transition: background 0.3s;
+}
+
+.notif-read-all:hover {
+  background: #7e22ce;
+}
+
+.notif-empty {
+  text-align: center;
+  padding: 1rem;
+  color: #aaa;
+}
+
+.notif-item {
+  padding: 0.6rem;
+  margin-bottom: 0.4rem;
+  border-radius: 0.5rem;
+  transition: background 0.2s;
+  cursor: pointer;
+}
+
+.notif-item.unread {
+  background-color: #2e1a47;
+  color: #e0e0ff;
+  font-weight: 600;
+  box-shadow: 0 0 5px rgba(192, 132, 252, 0.3);
+}
+
+.notif-item.read {
+  background-color: #1a1a2e;
+  color: #bbb;
+}
+
+.notif-item:hover {
+  background-color: #3a235e;
+}
+
+.notif-time {
+  font-size: 0.75rem;
+  color: #9e8cd9;
+}
+
+.notif-message-preview {
+  font-style: italic;
+  font-size: 0.9rem;
+  margin-top: 0.2rem;
+  color: #9c9c9c;
+  font-weight: bold;
+}
+
+.notif-empty {
+  text-align: center;
+  padding: 1rem;
+  color: #888;
+  font-style: italic;
+}
+
+.notif-item {
+  position: relative;
+  padding-right: 2rem;
+}
+
+.notif-delete {
+  position: absolute;
+  right: 0.5rem;
+  top: 0.5rem;
+  background: none;
+  border: none;
+  font-size: 1rem;
+  cursor: pointer;
+}
+

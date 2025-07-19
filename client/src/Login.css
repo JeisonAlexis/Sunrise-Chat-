@@ -1,0 +1,141 @@
+body,
+html,
+#root {
+  min-width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+.login-background {
+  background: url("login.jpg") no-repeat center center fixed;
+  background-size: cover;
+
+  width: 100vw;
+  height: 100vh;
+
+  margin: 0;
+  padding: 0;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+
+
+
+.login-container {
+  backdrop-filter: blur(15px);
+  padding: 3rem 2rem;
+  border-radius: 20px;
+  width: 100% !important;
+  max-width: 450px !important;
+  text-align: center;
+  box-shadow: 0 0 25px rgba(255, 0, 255, 0.3);
+}
+
+
+.login-title {
+  font-size: 2.1rem !important;
+  font-weight: bold !important;
+  color: #fff !important;
+}
+
+
+.retro-label {
+  color: #ffffffcc;
+  text-align: left;
+  font-weight: 500;
+  display: block;
+  font-size: 1.2rem;
+  margin-bottom: 0.6rem;
+  font-weight: bold;
+}
+
+
+.retro-input {
+  border-radius: 10px;
+  padding: 0.6rem;
+  background: white;
+  border: none;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.retro-button {
+  background: linear-gradient(to right, #5f47ff, #6d83ff) !important;
+  border: none !important;
+  border-radius: 10px !important;
+  color: white !important;
+  font-weight: bold !important;
+  padding: 0.7rem !important;
+  font-size: 1.2rem !important;
+  transition: 0.3s !important;
+}
+
+.retro-button:hover {
+  background: linear-gradient(to right, #7c66ff, #9db3ff) !important;
+  opacity: 1 !important; 
+}
+
+
+.retro-alert {
+  background-color: rgba(255, 0, 0, 0.2);
+  color: white;
+  border: none;
+}
+
+
+.login-register-link {
+  color: white;
+  font-size: 1rem;
+  margin-top: 1rem;
+  font-weight: bold;
+}
+
+.login-register-link a {
+  color: #9dc3ff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.login-register-link a:hover {
+  text-decoration: underline;
+}
+
+
+.login-footer {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  font-size: 0.8rem;
+  color: #ccc;
+}
+
+.login-footer a {
+  color: #7fd4ff;
+  text-decoration: none;
+}
+
+.login-footer a:hover {
+  text-decoration: underline;
+}
+
+.toggle-password-button {
+  border: none;
+  background: transparent;
+  color: black;
+  font-size: 1.2rem;
+}
+.toggle-password-button:hover {
+  background-color: #e0e0e0;
+}
+

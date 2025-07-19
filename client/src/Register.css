@@ -1,0 +1,113 @@
+
+.register-background {
+  background: url("register.jpg") no-repeat center center fixed;
+  background-size: cover;
+
+  width: 100vw;
+  height: 100vh;
+
+  margin: 0;
+  padding: 0;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
+.register-container {
+  background: linear-gradient(to bottom, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.05));
+  backdrop-filter: blur(15px);
+  padding: 2.5rem;
+  border-radius: 1rem;
+  width: 100%;
+  max-width: 460px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.3);
+}
+
+
+.retro-button {
+  background: linear-gradient(to right, #5f47ff, #6d83ff);
+  border: none;
+  border-radius: 10px;
+  color: white;
+  font-weight: bold;
+  padding: 0.7rem;
+  font-size: 1.2rem;
+  transition: background 0.3s;
+}
+
+.retro-button:hover {
+  background: linear-gradient(to right, #4b39cc, #5e73e0);
+}
+
+
+.title {
+  text-align: center;
+  color: white;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+
+.logo {
+  display: block;
+  margin: 0 auto 0.2rem auto;
+  max-width: 250px;
+}
+
+
+.retro-alert {
+  background-color: rgba(255, 0, 0, 0.1);
+  color: #ff4d4f;
+  border: none;
+  font-weight: bold;
+  text-align: center;
+}
+
+
+.login-link {
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+.login-link a {
+  color: #ff69b4;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.login-link a:hover {
+  text-decoration: underline;
+}
+
+.retro-label {
+  color: white;
+  font-weight: 600;
+  font-family: 'Orbitron', sans-serif;
+  margin-bottom: 0.3rem;
+}
+
+.input-with-icon {
+  position: relative;
+}
+
+.retro-input.with-icon {
+  padding-right: 2.5rem; 
+}
+
+.password-icon {
+  position: absolute;
+  top: 50%;
+  right: 0.75rem;
+  transform: translateY(-50%);
+  cursor: pointer;
+  color: black;
+  z-index: 2;
+}
+
+

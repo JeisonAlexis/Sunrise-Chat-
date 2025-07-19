@@ -1,0 +1,53 @@
+.user-card {
+  background: linear-gradient(to right, #2e0039, #3a004d);
+  border: 1px solid #5a008a;
+  border-radius: 0.75rem;
+  padding: 0.75rem;
+  transition: transform 0.2s, box-shadow 0.2s;
+  color: #fff;
+  box-shadow: 0 0 10px rgba(255, 0, 200, 0.1);
+}
+
+.user-card:hover {
+  transform: scale(1.02);
+  box-shadow: 0 0 12px rgba(255, 0, 200, 0.4);
+  background: linear-gradient(to right, #3a004d, #4f0066);
+}
+
+.user-card img {
+  border-radius: 50%;
+  border: 2px solid #ff00aa;
+}
+
+.text-content .name {
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 0.95rem;
+}
+
+.text-content .text {
+  color: #c0a8cc;
+  font-size: 0.85rem;
+}
+
+.date {
+  font-size: 0.7rem;
+  color: #aaa;
+}
+
+.this-user-notifications {
+  background-color: #ff00c8;
+  color: white;
+  font-size: 0.75rem;
+  padding: 0.2rem 0.5rem;
+  border-radius: 1rem;
+  margin-top: 0.25rem;
+}
+
+.user-online {
+  width: 10px;
+  height: 10px;
+  background-color: #00ff6a;
+  border-radius: 50%;
+  margin-top: 0.5rem;
+}

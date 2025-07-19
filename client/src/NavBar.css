@@ -1,0 +1,27 @@
+.navbar-container {
+  width: 100%;
+  height: 4.5rem;
+  border-radius: 0.75rem;
+  background: linear-gradient(to right, #a100f2, #ff0058, #ff8c00);
+  box-shadow: 0 0 10px rgba(255, 0, 200, 0.3);
+  display: flex;
+  align-items: center;
+  color: white;
+  box-sizing: border-box;
+
+  position: relative !important;
+  z-index: 10000 !important;
+}
+
+.navbar-inner {
+  padding: 0 1.5rem; 
+  box-sizing: border-box;
+}
+
+.user-navbar-avatar {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid #ffcc33;
+}
