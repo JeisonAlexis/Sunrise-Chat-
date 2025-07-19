@@ -1,9 +1,9 @@
 ☀️ **Sunrise Chat** ☀️
 
-**Descripción**  
+📄 **Descripción**  
 Proyecto de una aplicación de mensajería en tiempo real desarrollada con la metodología agil de Scrum. El objetivo del proyecto es realizar un proyecto sencillo pero escalable aplicando la metodologia de Scrum 📚.
 
-**Tecnologías Usadas**
+🛠️ **Tecnologías Usadas**
 - NodeJS
 - React
 - Socketio
@@ -20,7 +20,7 @@ Proyecto de una aplicación de mensajería en tiempo real desarrollada con la me
 - dotenv
 
 
-**Características**
+✨ **Características**
 - Registro y Logeo de usuarios
 - Mensajes en tiempo real
 - Implementacion de emojis
@@ -28,7 +28,7 @@ Proyecto de una aplicación de mensajería en tiempo real desarrollada con la me
 - Sistema de notificaciones
 - Perzonalizacion de la marca de la app junto a su frontend
 
-**Capturas**
+📸  **Capturas**
 - Menu del juego
  ![Captura del juego](menu_dino_run.png)
 
@@ -52,13 +52,20 @@ Proyecto de una aplicación de mensajería en tiempo real desarrollada con la me
 [![Ver video](https://img.youtube.com/vi/ID_DEL_VIDEO/hqdefault.jpg)](https://www.youtube.com/watch?v=ID_DEL_VIDEO)
 
 
-**Uso**
-Para abrir este proyecto:
-1. Ingresa a [https://scratch.mit.edu](https://scratch.mit.edu)
-2. Haz clic en "Crear" y luego "Archivo → Cargar desde tu computadora"
-3. Selecciona el archivo `.sb3`
+🚀 **Modo de Uso**
+1. git clone git@github.com:JeisonAlexis/Sunrise-Chat-.git
+2. cd Sunrise-Chat-
+3. Edita el .env alojado en /server con tus datos
+4. cd server
+5. npm install
+6. npm run dev
+7. cd ../client
+8. npm install
+9. npm run dev
+10. Accede al servidor local http://localhost:5173
+
 
 **Autor**
 - Jeison Alexis Rodriguez Angarita 🙍‍♂️
-- Pensamiento Computacional / Ingenieria de Sistemas / Universidad de Pamplona 👨‍🎓
-- 2022 🌎
+- Arquitectura de Software / Ingenieria de Sistemas / Universidad de Pamplona 👨‍🎓
+- 2024 📅 
