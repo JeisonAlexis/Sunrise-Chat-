@@ -29,23 +29,41 @@ Proyecto de una aplicación de mensajería en tiempo real desarrollada con la me
 - Perzonalizacion de la marca de la app junto a su frontend
 
 📸  **Capturas**
-- Menu del juego
- ![Captura del juego](menu_dino_run.png)
+- Register
+<div align="center">
+  <img src="images/register_sunrisechat.png" width="400" />
+  <img src="images/registerDatos_sunrisechat.png" width="400" />
+ <img src="images/registerDatos2_sunrisechat.png" width="400" />
+</div>
 
-- Menu modos de juego (Solo/Coop)
- ![Captura del juego](modo_dino_run.png)
+- Login
+<div align="center">
+  <img src="images/login_sunrisechat.png" width="400" />
+  <img src="images/loginDatos_sunrisechat.png" width="400" />
+ <img src="images/loginDatos2_sunrisechat.png" width="400" />
+</div>
 
-- Juego (Solo)
- ![Captura del juego](juego_dino_run.png)
+- Guardado
+ ![Captura del juego](images/registros_sunrisechat.png)
 
-- Juego (Coop)
-![Captura del juego](juego_coop_dino_run.png)
+- ChatApp
+![Captura del juego](images/chatApp_sunrisechat.png)
 
-- Jueego (Coop)
-![Captura del juego](juego_coop_dino_run.png)
+- Inicializacion de chats
+<div align="center">
+  <img src="images/buscar_sunrisechat.png" width="400" />
+  <img src="images/chat_sunrisechat.png" width="400" />
+ <img src="images/emojis_sunrisechat.png" width="400" />
+</div>
 
-- Menu GameOver
- ![Captura del juego](menu_gameover_dino_run.png)
+- Notificaciones
+<div align="center">
+  <img src="images/notificaciones_sunrisechat.png" width="400" />
+  <img src="images/notificaciones2_sunrisechat.png" width="400" />
+</div>
+
+- Chat receptor
+ ![Captura del juego](images/mensaje_sunrisechat.png)
 
 **🎥 Trailer**
 
