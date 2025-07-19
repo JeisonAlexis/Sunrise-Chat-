@@ -1,4 +1,4 @@
-☀️ **Sunrise Chat** ☀️
+# ☀️ **Sunrise Chat** ☀️
 
 📄 **Descripción**  
 Proyecto de una aplicación de mensajería en tiempo real desarrollada con la metodología agil de Scrum. El objetivo del proyecto es realizar un proyecto sencillo pero escalable aplicando la metodologia de Scrum 📚.
