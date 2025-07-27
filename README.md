@@ -85,5 +85,5 @@ Proyecto de una aplicación de mensajería en tiempo real desarrollada con la me
 
 **Autor**
 - Jeison Alexis Rodriguez Angarita 🙍‍♂️
-- Arquitectura de Software / Ingenieria de Sistemas / Universidad de Pamplona 👨‍🎓
+- Arquitecturas Empresariales / Ingenieria de Sistemas / Universidad de Pamplona 👨‍🎓
 - 2024 📅 
