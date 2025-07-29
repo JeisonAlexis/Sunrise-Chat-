@@ -67,7 +67,9 @@ Proyecto de una aplicación de mensajería en tiempo real desarrollada con la me
 
 **🎥 Trailer**
 
-[![Ver video](https://img.youtube.com/vi/ID_DEL_VIDEO/hqdefault.jpg)](https://www.youtube.com/watch?v=ID_DEL_VIDEO)
+<a href="https://www.youtube.com/watch?v=nKGlT1lPhw4" target="_blank">
+  <img src="images/login_sunrisechat.png" width="950" height="700" alt="Ver video">
+</a>
 
 
 🚀 **Modo de Uso**
