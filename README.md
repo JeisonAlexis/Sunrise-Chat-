@@ -67,10 +67,18 @@ Proyecto de una aplicación de mensajería en tiempo real desarrollada con la me
 
 **🎥 Trailer**
 
-<a href="https://www.youtube.com/watch?v=nKGlT1lPhw4" target="_blank">
-  <img src="images/login_sunrisechat.png" width="950" height="700" alt="Ver video">
-</a>
+<div align="center">
+  <a href="https://youtu.be/nKGlT1lPhw4">
+    <img src="images/login_sunrisechat.png" alt="PROYECTO SMS GATEWAY" width="600">
+  </a>
 
+  <br>
+
+  <a href="https://youtu.be/nKGlT1lPhw4">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+
+</div>
 
 🚀 **Modo de Uso**
 1. git clone git@github.com:JeisonAlexis/Sunrise-Chat-.git
