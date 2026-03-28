@@ -68,13 +68,13 @@ Proyecto de una aplicación de mensajería en tiempo real desarrollada con la me
 **🎥 Trailer**
 
 <div align="center">
-  <a href="https://youtu.be/nKGlT1lPhw4">
+  <a href="https://youtu.be/WgQe6bTZt1U">
     <img src="images/login_sunrisechat.png" alt="PROYECTO SMS GATEWAY" width="600">
   </a>
 
   <br>
 
-  <a href="https://youtu.be/nKGlT1lPhw4">
+  <a href="https://youtu.be/WgQe6bTZt1U">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
 
